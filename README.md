@@ -41,4 +41,4 @@ I'm building my portfolio of Machine Learning, Deep Learning, and Computer Visio
 
 ### 📫 Connect With Me
 - **GitHub:** https://github.com/shazminafatimah
-- **LinkedIn:** Add your LinkedIn URL here
+- **LinkedIn:** www.linkedin.com/in/shazmina-fatimah-9b9537133
